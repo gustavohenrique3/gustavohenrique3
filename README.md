@@ -9,5 +9,3 @@ Meu nome é Gustavo Henrique
 ### Você entrar em contato comigo 📫
 
 parreira.gustavo@escola.pr.gov.br
-
- ,@wz.gustavo0
