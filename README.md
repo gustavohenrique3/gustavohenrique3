@@ -10,7 +10,16 @@ Meu nome é Gustavo Henrique
 
 parreira.gustavo@escola.pr.gov.br
 
-<body>
+<head>
+    <link rel="stylesheet" href="styles.css" />
+    <title>Gustavo</title>
+
+
+</head>
+
+
+
+    <body>
 
 
     
@@ -25,4 +34,23 @@ parreira.gustavo@escola.pr.gov.br
 
 
 </body>
+
+
+
+body {
+   
+    background-color: black;
+    color: white
+}
+
+
+
+
+
+
+
+
+
+
+
 
